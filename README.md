@@ -42,16 +42,26 @@ bhagavad-gita/
 │
 └── README.md
 
-
 ---
+
+
+## 📸 Screenshots
+
+### Home Page
+![Home Page](![Uploading Screenshot 2025-12-26 144619.png…]()
+)
+
+### Chapters Page
+![Chapters](screenshots/chapters.png)
+
+### Chapter Detail
+![Chapter Detail](screenshots/chapter-detail.png)
+
+### Dark Mode
+![Dark Mode](screenshots/dark-mode.png)
 
 ## 📦 API Used
 Data is fetched from: https://vedicscriptures.github.io/
----
-
-## 📸 Screenshots
-_(You can add screenshots here later)_
-
 ---
 
 ## 🙏 Purpose
