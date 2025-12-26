@@ -49,21 +49,23 @@ bhagavad-gita/
 
 
 ### Home Page
-!<img width="1900" height="858" alt="home page" src="https://github.com/user-attachments/assets/f5ad1860-3be0-4ef1-9fc0-e07ab8f23c73" />
+<img width="1900" height="858" alt="home page" src="https://github.com/user-attachments/assets/f5ad1860-3be0-4ef1-9fc0-e07ab8f23c73" />
 )
 
 ### Chapters Page
-![Chapters](screenshots/chapters.png)
+<img width="1895" height="926" alt="chapter page" src="https://github.com/user-attachments/assets/461cedc5-4e7c-4e0c-bae6-4df7c9f775a1" />
+
 
 ### Chapter Detail
-![Chapter Detail](screenshots/chapter-detail.png)
+<img width="1892" height="865" alt="verse page" src="https://github.com/user-attachments/assets/e86850a7-d446-46c6-87e0-dfcfa55fd46f" />
 
-### Dark Mode
-![Dark Mode](screenshots/dark-mode.png)
 
-## 📦 API Used
-Data is fetched from: https://vedicscriptures.github.io/
----
+### Shlok Detaile
+<img width="1677" height="407" alt="shlok page" src="https://github.com/user-attachments/assets/aaa7ce6b-cdaf-46c8-8e37-733c64adc99b" />
+
+### Form-img
+<img width="1806" height="576" alt="form page" src="https://github.com/user-attachments/assets/e779b67b-bb16-4782-bcfc-6e620350818b" />
+
 
 ## 🙏 Purpose
 This project is created for learning and spreading the eternal wisdom of **Shreemad Bhagavad Gita** through technology.
