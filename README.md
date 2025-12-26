@@ -1,5 +1,3 @@
-# Bhagavad-Gita
-Bhagavad Gita website built with HTML, CSS, Bootstrap &amp; JavaScript.
 # Bhagavad Gita 📖✨
 
 A responsive and modern Bhagavad Gita website built using **HTML, CSS, Bootstrap, and JavaScript**.  
@@ -8,11 +6,8 @@ This project allows users to explore all chapters and verses of the Bhagavad Git
 ---
 
 ## 🌐 Live Demo
-👉 https://your-username.github.io/bhagavad-gita/
-
-_(Replace `your-username` with your GitHub username)_
-
----
+👉 https://dhara2418.github.io/bhagavad-gita/
+--
 
 ## 🚀 Features
 - 📚 All 18 chapters of Bhagavad Gita
