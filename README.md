@@ -48,8 +48,9 @@ bhagavad-gita/
 ## 📸 Screenshots
 
 ### Home Page
-![Home Page](![Uploading Screenshot 2025-12-26 144619.png…]()
-)
+### Home Page
+![Home Page](screenshots/Uploading_Screenshot_2025-12-26_144619.png)
+
 
 ### Chapters Page
 ![Chapters](screenshots/chapters.png)
