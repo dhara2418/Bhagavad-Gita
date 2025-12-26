@@ -6,7 +6,8 @@ This project allows users to explore all chapters and verses of the Bhagavad Git
 ---
 
 ## 🌐 Live Demo
-👉 https://dhara2418.github.io/bhagavad-gita/
+👉 https://dhara2418.github.io/Bhagavad-Gita/
+
 --
 
 ## 🚀 Features
