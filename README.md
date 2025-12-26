@@ -49,8 +49,8 @@ bhagavad-gita/
 
 
 ### Home Page
-![Home Page]("C:\Bhagvat-gita\screenshote\Screenshot 2025-12-26 144619.png")
-
+![Home Page](screenshots/<img width="1900" height="858" alt="home page" src="https://github.com/user-attachments/assets/f5ad1860-3be0-4ef1-9fc0-e07ab8f23c73" />
+)
 
 ### Chapters Page
 ![Chapters](screenshots/chapters.png)
